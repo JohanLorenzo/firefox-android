@@ -1,0 +1,9 @@
+{
+    "env": {
+        "TRY_SELECTOR": "fuzzy"
+    },
+    "tasks": [
+        "signing-apk-fenix-nightly"
+    ],
+    "version": 1
+}
